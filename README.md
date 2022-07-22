@@ -1,4 +1,4 @@
-#Fake News Detection
+FAKE-NEWS-DETECTION
 
 DATASET LINK- https://www.kaggle.com/c/fake-news/data?select=train.csv
 
